@@ -1,2 +1,3 @@
-# hitong
-Welcome to my GitHub profile!
+  # 西东
+欢迎来到我的基特布档案!
+我是一名计算机科学的学生。
